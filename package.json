@@ -15,6 +15,8 @@
     "bluebird": "^3.5.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+	"node-fetch": "^1.7.3",
+	"proxy-agent": "github:Fujiwaranosai/node-proxy-agent"
   }
 }
